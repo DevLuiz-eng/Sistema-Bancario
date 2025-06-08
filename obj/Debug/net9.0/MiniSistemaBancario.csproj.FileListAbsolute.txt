@@ -1,0 +1,14 @@
+C:\Users\luisc\Documents\MiniSistemaBancario\bin\Debug\net9.0\MiniSistemaBancario.exe
+C:\Users\luisc\Documents\MiniSistemaBancario\bin\Debug\net9.0\MiniSistemaBancario.deps.json
+C:\Users\luisc\Documents\MiniSistemaBancario\bin\Debug\net9.0\MiniSistemaBancario.runtimeconfig.json
+C:\Users\luisc\Documents\MiniSistemaBancario\bin\Debug\net9.0\MiniSistemaBancario.dll
+C:\Users\luisc\Documents\MiniSistemaBancario\bin\Debug\net9.0\MiniSistemaBancario.pdb
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\MiniSistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\MiniSistemaBancario.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\MiniSistemaBancario.AssemblyInfo.cs
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\MiniSistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\MiniSistemaBancario.dll
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\refint\MiniSistemaBancario.dll
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\MiniSistemaBancario.pdb
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\MiniSistemaBancario.genruntimeconfig.cache
+C:\Users\luisc\Documents\MiniSistemaBancario\obj\Debug\net9.0\ref\MiniSistemaBancario.dll
